@@ -2,6 +2,7 @@
 
 **Remindify Healthy** is a modern, responsive web app designed to simplify medication and health-related reminders. Built with a robust frontend stack using **React**, **TypeScript**, **Tailwind CSS**, and powered by **Vite**, the app offers a clean and intuitive user experience that makes staying on top of health routines easy and efficient.
 
+[Link](https://remindify-healthy.vercel.app/)  
 ## 🌟 Overview
 
 Whether you're managing daily vitamins, prescriptions, or health habits—**Remindify Healthy** helps you stay organized and consistent with your wellness goals. Set reminders, visualize tasks, and experience a frictionless workflow designed with accessibility and ease-of-use in mind.
